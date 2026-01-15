@@ -18,4 +18,12 @@ PetalNest – Bloom Buy & Grow is a flower-related web application where users c
 3. Create a MySQL database using phpMyAdmin  
 4. Import the database file included in the project (`PetalNest.sql`)  
 5. Configure email settings in `config.php` or relevant file  
-6. Open your browser and go to:  
+6. Open your browser and go to: 
+http://localhost/PetalNest
+
+## Developer
+Tasfika Hasan Mahi – 41230201240
+Farzana Akter Urme - 41230201205
+
+## Notes
+This project was developed as part of the final sprint submission for the course. The design is purple-themed, vibrant, and fully responsive.
